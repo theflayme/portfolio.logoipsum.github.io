@@ -1,7 +1,6 @@
+@import './__font.css';
+@import './__global.css';
 @import './__root.css';
-@import './global.css';
-@import './__fonts.css';
-@import './__media.css';
 
 /* navbar styles */
 
